@@ -4,11 +4,11 @@
   <head>
     <meta charset="utf-8">
     <title>Branninfo</title>
-    <link rel="stylesheet" href="css/master.css">
+    <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
     <h1>Posisjoner for Varsel-ID</h1>
-    <input type="text" id="search" onkeyup="search()" placeholder="Søk...">
+    <label for="search"></label><input type="text" id="search" onkeyup="search()" placeholder="Søk...">
     <ul id="ul">
       <!-- Plan U1, Del 1 -->
       <li><a href="#">01.025 <b>&#8599;&#xFE0E;</b></a></li>
@@ -50,14 +50,14 @@
       <li><a href="#">01.022 <b>&#8599;&#xFE0E;</b></a></li>
       <li><a href="#">01.023 <b>&#8599;&#xFE0E;</b></a></li>
       <li><a href="#">01.024 <b>&#8599;&#xFE0E;</b></a></li>
-      <li><a href="#">01.025 <b>&#8599;&#xFE0E;</b></a></li>
+      <!--<li><a href="#">01.025 <b>&#8599;&#xFE0E;</b></a></li>--> <!-- Duplicate -->
       <li><a href="#">01.027 <b>&#8599;&#xFE0E;</b></a></li>
       <li><a href="#">01.071 <b>&#8599;&#xFE0E;</b></a></li>
       <li><a href="#">01.072 <b>&#8599;&#xFE0E;</b></a></li>
       <li><a href="#">01.073 <b>&#8599;&#xFE0E;</b></a></li>
 
       <!-- Plan 1, Del 1 -->
-      <li><a href="#">01.032 <b>&#8599;&#xFE0E;</b></a></li>
+      <!--<li><a href="#">01.032 <b>&#8599;&#xFE0E;</b></a></li>--> <!-- Duplicate -->
       <li><a href="#">01.033 <b>&#8599;&#xFE0E;</b></a></li>
       <li><a href="#">01.034 <b>&#8599;&#xFE0E;</b></a></li>
       <li><a href="#">01.035 <b>&#8599;&#xFE0E;</b></a></li>
@@ -96,8 +96,8 @@
       <li><a href="#">03.013 <b>&#8599;&#xFE0E;</b></a></li>
       <li><a href="#">03.014 <b>&#8599;&#xFE0E;</b></a></li>
       <li><a href="#">03.015 <b>&#8599;&#xFE0E;</b></a></li>
-      <li><a href="#">03.016 <b>&#8599;&#xFE0E;</b></a></li>
-      <li><a href="#">03.027 <b>&#8599;&#xFE0E;</b></a></li>
+      <!--<li><a href="#">03.016 <b>&#8599;&#xFE0E;</b></a></li>--> <!-- Duplicate -->
+      <!--<li><a href="#">03.027 <b>&#8599;&#xFE0E;</b></a></li>--> <!-- Duplicate -->
       <li><a href="#">03.028 <b>&#8599;&#xFE0E;</b></a></li>
       <li><a href="#">03.029 <b>&#8599;&#xFE0E;</b></a></li>
       <li><a href="#">03.031 <b>&#8599;&#xFE0E;</b></a></li>
@@ -148,10 +148,10 @@
       <li><a href="#">01.068 <b>&#8599;&#xFE0E;</b></a></li>
 
       <!-- Plan 3, Del 2 -->
-      <li><a href="#">01.063 <b>&#8599;&#xFE0E;</b></a></li>
-      <li><a href="#">01.064 <b>&#8599;&#xFE0E;</b></a></li>
-      <li><a href="#">01.065 <b>&#8599;&#xFE0E;</b></a></li>
-      <li><a href="#">01.066 <b>&#8599;&#xFE0E;</b></a></li>
+      <!--<li><a href="#">01.063 <b>&#8599;&#xFE0E;</b></a></li>--> <!-- Duplicate -->
+      <!--<li><a href="#">01.064 <b>&#8599;&#xFE0E;</b></a></li>--> <!-- Duplicate -->
+      <!--<li><a href="#">01.065 <b>&#8599;&#xFE0E;</b></a></li>--> <!-- Duplicate -->
+      <!--<li><a href="#">01.066 <b>&#8599;&#xFE0E;</b></a></li>--> <!-- Duplicate -->
       <li><a href="#">02.025 <b>&#8599;&#xFE0E;</b></a></li>
       <li><a href="#">02.026 <b>&#8599;&#xFE0E;</b></a></li>
       <li><a href="#">02.027 <b>&#8599;&#xFE0E;</b></a></li>
@@ -176,15 +176,15 @@
       <li><a href="#">02.047 <b>&#8599;&#xFE0E;</b></a></li>
 
       <!-- Plan 4, Del 2 -->
-      <li><a href="#">02.035 <b>&#8599;&#xFE0E;</b></a></li>
+      <!--<li><a href="#">02.035 <b>&#8599;&#xFE0E;</b></a></li>--> <!-- Duplicate -->
       <li><a href="#">02.036 <b>&#8599;&#xFE0E;</b></a></li>
-      <li><a href="#">02.037 <b>&#8599;&#xFE0E;</b></a></li>
+      <!--<li><a href="#">02.037 <b>&#8599;&#xFE0E;</b></a></li>--> <!-- Duplicate -->
     </ul>
 
     <script>
       function search()
       {
-        var input, filter, ul, li, a, i, txtValue;
+        let input, filter, ul, li, a, i, txtValue;
         input = document.getElementById("search");
         filter = input.value.toUpperCase();
         ul = document.getElementById("ul");
