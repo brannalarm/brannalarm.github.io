@@ -180,30 +180,9 @@
       <!--<li>02.035 <b>&#8599;&#xFE0E;</b></li>--> <!-- Duplicate -->
       <li>02.036 <b>&#8599;&#xFE0E;</b></li>
       <!--<li>02.037 <b>&#8599;&#xFE0E;</b></li>--> <!-- Duplicate -->
-    </ul>
 
-    <script>
-      function search()
-      {
-        let input, filter, ul, li, a, i, txtValue;
-        input = document.getElementById("search");
-        filter = input.value.toUpperCase();
-        ul = document.getElementById("ul");
-        li = ul.getElementsByTagName("li");
-        for (i = 0; i < li.length; i++)
-        {
-          a = li[i].getElementsByTagName("a")[0];
-          txtValue = a.textContent || a.innerText;
-          if (txtValue.toUpperCase().indexOf(filter) > -1)
-          {
-            li[i].style.display = "";
-          }
-          else
-          {
-            li[i].style.display = "none";
-          }
-        }
-      }
-    </script>
+      <!-- Scripts -->
+      <script src="index.js"></script>
+    </ul>
   </body>
 </html>
