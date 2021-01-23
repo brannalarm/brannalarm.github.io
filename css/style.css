@@ -26,13 +26,28 @@ ul
 {
   list-style-type: none;
   text-align: left;
-  padding: 0 10%;
-  font-size: 6vw;
+  padding: 0 6vw;
+  font-size: 8vw;
 }
 
 li
 {
   padding-bottom: 2vw;
+}
+
+div
+{
+  display: none;
+  font-weight: 800;
+  color: rgba(0, 0, 0, .3);
+  font-size: 6vw;
+}
+
+img
+{
+  width: 100%;
+  background-color: rgba(0, 0, 0, .1);
+  border-radius: 4vw;
 }
 
 ::placeholder

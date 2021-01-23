@@ -12,3 +12,10 @@ function search()
         else current.style.display = "none";
     }
 }
+
+// Open information about point
+function openInfo(element)
+{
+    if (element.lastChild.style.display === "") element.lastChild.style.display = "inline";
+    else element.lastChild.style.display = "";
+}
