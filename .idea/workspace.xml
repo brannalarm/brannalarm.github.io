@@ -2,19 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b308d9db-f816-49a4-a507-58d2add34515" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.029.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.031.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.032.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.038.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.039.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.042.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.043.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.044.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.046.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.047.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.049.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.069.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.071.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.072.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/01.073.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/planer/posisjoner/02.024.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/planer/plan1.1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/planer/plan1.2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/planer/plan2.2.1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/planer/plan2.2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/planer/plan3.1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/planer/plan3.2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/planer/plan4.2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/planer/planu1.1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/planer/planu1.2.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +86,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedIndex" value="1" />
   </component>
@@ -46,6 +109,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -58,7 +122,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,7 +135,13 @@
       <workItem from="1610546105582" duration="3846000" />
       <workItem from="1611418570895" duration="3968000" />
       <workItem from="1611422617318" duration="340000" />
-      <workItem from="1611422980227" duration="3345000" />
+      <workItem from="1611422980227" duration="3870000" />
+      <workItem from="1612945007809" duration="108000" />
+      <workItem from="1612945144733" duration="1780000" />
+      <workItem from="1612946966273" duration="1653000" />
+      <workItem from="1612952048718" duration="1430000" />
+      <workItem from="1612955521420" duration="1725000" />
+      <workItem from="1612960874891" duration="1469000" />
     </task>
     <servers />
   </component>
