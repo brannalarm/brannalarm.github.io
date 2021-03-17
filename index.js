@@ -1,9 +1,13 @@
+// Get HTML items
+let input = document.getElementById("search");
+let elements = document.getElementsByTagName("li");
+
+// Focus text field
+input.focus();
+
 // Search through list elements
 function search()
 {
-    let input = document.getElementById("search");
-    let elements = document.getElementsByTagName("li");
-
     for (let i = 0; i < elements.length; i++)
     {
         const current = elements[i];
@@ -13,9 +17,17 @@ function search()
     }
 }
 
-// Open information about point
-function openInfo(element)
+// Show point specific details
+function showDetails(element)
 {
-    if (element.lastChild.style.display === "") element.lastChild.style.display = "inline";
-    else element.lastChild.style.display = "";
+    element.lastChild.style.display = "inline";
+}
+
+// Hide point specific details
+function hideDetails(element)
+{
+    setTimeout(function ()
+    {
+        element.parentNode.style.display = ""
+    }, 1);
 }
